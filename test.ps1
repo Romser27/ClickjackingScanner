@@ -41,3 +41,4 @@ finally {
     $stream.Close()
     $client.Close()
 }
+#malware
